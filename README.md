@@ -1,5 +1,5 @@
 # Predicting-Hotel-Reservation-Cancellations-Using-Machine-Learning-Models
-Project Summary
+## *Project Summary*
 This project aimed to predict hotel reservation cancellations using machine learning techniques, with a focus on understanding the factors influencing cancellations and optimizing prediction performance.
 
 The dataset used in this project was obtained from Kaggle, a well-known platform for open datasets and machine learning projects. The dataset, titled Hotel Reservations Classification Dataset, is publicly available and structured as a CSV file, making it easy to load and process using Python's pandas library. Since it is publicly accessible, no additional data collection or web scraping was required.
